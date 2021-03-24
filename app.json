@@ -65,6 +65,9 @@
     },
     {
       "url": "https://github.com/heroku/heroku-buildpack-activestorage-preview"
+    },
+    {
+   "stack": "heroku-18"
     }
   ]
 }
