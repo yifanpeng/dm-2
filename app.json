@@ -5,7 +5,7 @@
     "postdeploy": "bundle exec rake db:migrate && bundle exec rake db:seed"
   },
   "repository": "https://github.com/yifanpeng/dm-2",
-  "stack": "heroku-16",
+  "stack": "heroku-18",
   "env": {
     "LANG": {
       "required": true,
